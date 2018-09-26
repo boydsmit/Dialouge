@@ -1,0 +1,15 @@
+{
+  "Question": "This is my question.",
+  "Answers": {
+    "A": "Hoi",
+    "B": "GHOI",
+    "C": "DA",
+    "D": "CYKA BLYAT"
+  },
+  "FollowUps": {
+    "A": "You answered A",
+    "B": "You answered B",
+    "C": "You answered C",
+    "D": "You answered D"
+  }
+}

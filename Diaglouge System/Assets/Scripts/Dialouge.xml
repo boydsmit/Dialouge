@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPC>
+    <question>
+        <text>This is a test question</text>
+        <answers>
+            <AnswerA>A: this is answer a</AnswerA>
+            <AnswerB>B: this is answer b</AnswerB>
+            <AnswerC>C: this is answer c</AnswerC>
+            <AnswerD>D: this is answer d</AnswerD>
+        </answers>
+        <followUps>
+            <FollowUpA>This is the follow up on A</FollowUpA>
+            <FollowUpB>This is the follow up on B</FollowUpB>
+            <FollowUpC>This is the follow up on C</FollowUpC>
+            <FollowUpD>This is the follow up on D</FollowUpD>
+        </followUps>
+    </question>
+</NPC>  
